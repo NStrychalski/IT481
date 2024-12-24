@@ -1,0 +1,7 @@
+C:\Users\natas\source\repos\Natasha_Strychalski_Unit7_IT481\Natasha_Strychalski_Unit7_IT481\bin\Debug\Natasha_Strychalski_Unit7_IT481.exe.config
+C:\Users\natas\source\repos\Natasha_Strychalski_Unit7_IT481\Natasha_Strychalski_Unit7_IT481\bin\Debug\Natasha_Strychalski_Unit7_IT481.exe
+C:\Users\natas\source\repos\Natasha_Strychalski_Unit7_IT481\Natasha_Strychalski_Unit7_IT481\bin\Debug\Natasha_Strychalski_Unit7_IT481.pdb
+C:\Users\natas\source\repos\Natasha_Strychalski_Unit7_IT481\Natasha_Strychalski_Unit7_IT481\obj\Debug\Natasha_Strychalski_Unit7_IT481.csproj.AssemblyReference.cache
+C:\Users\natas\source\repos\Natasha_Strychalski_Unit7_IT481\Natasha_Strychalski_Unit7_IT481\obj\Debug\Natasha_Strychalski_Unit7_IT481.csproj.CoreCompileInputs.cache
+C:\Users\natas\source\repos\Natasha_Strychalski_Unit7_IT481\Natasha_Strychalski_Unit7_IT481\obj\Debug\Natasha_Strychalski_Unit7_IT481.exe
+C:\Users\natas\source\repos\Natasha_Strychalski_Unit7_IT481\Natasha_Strychalski_Unit7_IT481\obj\Debug\Natasha_Strychalski_Unit7_IT481.pdb
